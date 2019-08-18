@@ -1,0 +1,360 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 3,
+      "name": "Ali",
+      "author": "Syed"
+    },
+    {
+      "id": 2,
+      "name": "Ali",
+      "author": "Ahtisham"
+    },
+    {
+      "id": 6,
+      "author": "Syed",
+      "name": "Ahtisham",
+      "adress": {
+        "landmark": "Tender Heart School",
+        "sector": 62,
+        "houseNumber": 18
+      }
+    },
+    {
+      "id": 4,
+      "author": "Syed",
+      "name": "Ahtisham",
+      "adress": {
+        "landmark": "Tender Heart School",
+        "sector": 62,
+        "houseNumber": 18
+      }
+    },
+    {
+      "id": 5,
+      "author": "Syed",
+      "name": "Ahtisham",
+      "address": {
+        "landmark": "Tender Heart School",
+        "sector": 62,
+        "houseNumber": 18
+      }
+    },
+    {
+      "id": 7,
+      "author": "Syed",
+      "name": "Ahtisham",
+      "address": {
+        "landmark": "Tender Heart School",
+        "sector": 62,
+        "houseNumber": 18
+      }
+    },
+    {
+      "id": 8,
+      "author": "Syed",
+      "name": "Ahtisham",
+      "address": {
+        "landmark": "Tender Heart School",
+        "sector": 62,
+        "houseNumber": 18
+      }
+    },
+    {
+      "id": 9,
+      "author": "Syed",
+      "name": "Ahtisham",
+      "address": {
+        "landmark": "Tender Heart School",
+        "sector": 62,
+        "houseNumber": 18
+      }
+    },
+    {
+      "id": 11,
+      "author": "Aligarh",
+      "name": "Ahti",
+      "address": [
+        {
+          "landmark": "Ghaffar",
+          "sector": 44,
+          "houseNumber": 20
+        },
+        {
+          "landmark": "ILQA",
+          "sector": 40,
+          "houseNumber": 21
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "author": "Aligarh",
+      "name": "Ahti",
+      "address": [
+        {
+          "landmark": "Ghaffar",
+          "sector": 44,
+          "houseNumber": 20
+        },
+        {
+          "landmark": "ILQA",
+          "sector": 40,
+          "houseNumber": 21
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "ABC",
+      "author": "XYZ"
+    },
+    {
+      "id": 13,
+      "name": "ABC1",
+      "author": "XYZ1"
+    },
+    {
+      "id": 14,
+      "name": "ABC1",
+      "author": "XYZ1"
+    },
+    {
+      "id": 15,
+      "name": "ABC1",
+      "author": "XYZ1"
+    },
+    {
+      "id": 16,
+      "name": "ABC1",
+      "author": "XYZ1"
+    },
+    {
+      "id": 17,
+      "author": "XYZ",
+      "name": "AS",
+      "address": {
+        "houseNumber": 11,
+        "sector": 44,
+        "landmark": "AXSZ"
+      }
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": "19",
+      "name": "Sana",
+      "company": "Vizag"
+    },
+    {
+      "id": "231",
+      "name": "Mobiles",
+      "company": "91mobiles",
+      "address": {
+        "houseno": "652",
+        "wardno": "121"
+      }
+    },
+    {
+      "id": "707",
+      "firstname": "Alig",
+      "lastname": "UP",
+      "company": "91mobiles",
+      "address": [
+        {
+          "wardno": "10",
+          "houseno": "652AI",
+          "sector": "29"
+        },
+        null
+      ]
+    },
+    {
+      "id": "708",
+      "firstname": "Alig",
+      "lastname": "UP",
+      "company": "91mobiles",
+      "address": [
+        {
+          "wardno": "10",
+          "houseno": "652AI",
+          "sector": "29"
+        },
+        null
+      ]
+    },
+    {
+      "id": "709",
+      "firstname": "Alig",
+      "lastname": "UP",
+      "company": "91mobiles",
+      "address": [
+        {
+          "wardno": "10",
+          "houseno": "652AI",
+          "sector": "29"
+        },
+        null
+      ]
+    },
+    {
+      "id": "719",
+      "firstname": "Alig",
+      "lastname": "UP",
+      "company": "91mobiles",
+      "address": [
+        {
+          "wardno": "10",
+          "houseno": "652AI",
+          "sector": "29"
+        },
+        null
+      ]
+    },
+    {
+      "id": "7203peO"
+    },
+    {
+      "id": "729",
+      "firstname": "Alig",
+      "lastname": "UP",
+      "company": "91mobiles",
+      "address": [
+        {
+          "wardno": "10",
+          "houseno": "652AI",
+          "sector": "29"
+        },
+        null
+      ]
+    },
+    {
+      "id": "739",
+      "firstname": "Alig",
+      "lastname": "UP",
+      "company": "91mobiles",
+      "address": [
+        {
+          "wardno": "10",
+          "houseno": "652AI",
+          "sector": "29"
+        },
+        null
+      ]
+    },
+    {
+      "id": "749",
+      "firstname": "Alig",
+      "lastname": "UP",
+      "company": "91mobiles",
+      "address": [
+        {
+          "wardno": "10",
+          "houseno": "652AI",
+          "sector": "29"
+        },
+        null
+      ]
+    },
+    {
+      "id": "759",
+      "firstname": "Alig",
+      "lastname": "UP",
+      "company": "91mobiles",
+      "address": [
+        {
+          "wardno": "10",
+          "houseno": "652AI",
+          "sector": "29"
+        },
+        null
+      ]
+    },
+    {
+      "id": "769",
+      "firstname": "Alig",
+      "lastname": "UP",
+      "company": "91mobiles",
+      "address": [
+        {
+          "wardno": "10",
+          "houseno": "652AI",
+          "sector": "29"
+        },
+        null
+      ]
+    },
+    {
+      "id": "779",
+      "firstname": "Alig",
+      "lastname": "UP",
+      "company": "91mobiles",
+      "address": [
+        {
+          "wardno": "10",
+          "houseno": "652AI",
+          "sector": "29"
+        },
+        null
+      ]
+    },
+    {
+      "id": "789",
+      "firstname": "Alig",
+      "lastname": "UP",
+      "company": "91mobiles",
+      "address": [
+        {
+          "wardno": "10",
+          "houseno": "652AI",
+          "sector": "29"
+        },
+        null
+      ]
+    },
+    {
+      "id": "799",
+      "firstname": "Alig",
+      "lastname": "UP",
+      "company": "91mobiles",
+      "address": [
+        {
+          "wardno": "10",
+          "houseno": "652AI",
+          "sector": "29"
+        },
+        null
+      ]
+    },
+    {
+      "id": "901",
+      "fname": "Ali",
+      "lname": "Aligarh"
+    },
+    {
+      "id": "801",
+      "fname": "ABC",
+      "lname": "XYZ",
+      "address": {
+        "wardno": "1",
+        "landmark": "ILQA"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
