@@ -36,7 +36,7 @@ public class TC1 {
 	System.out.println(id);
 	
 	
-	//2nd way to extract from Json
+	//2nd way to extract from Json file
 	
 	ResponseParsing.ResponseDataParse(res.asString(),"posts","id","707","company");
 	
